@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #Comando append adiciona ao final da lista
-from Ex004 import lista1
+from Lista import lista1
 
 lista = [1,2,3,5]
 

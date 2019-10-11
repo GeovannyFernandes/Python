@@ -1,18 +1,66 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d6be905-b216-4884-8b1e-9c1f187a31a7" name="Default Changelist" comment="" />
+    <list default="true" id="6d6be905-b216-4884-8b1e-9c1f187a31a7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySqlConnector.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Where.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ativ001.py" beforeDir="false" afterPath="$PROJECT_DIR$/MetrosCentimetros.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv002.py" beforeDir="false" afterPath="$PROJECT_DIR$/IMC.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Atv003.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex001.py" beforeDir="false" afterPath="$PROJECT_DIR$/PrintBásico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex002.py" beforeDir="false" afterPath="$PROJECT_DIR$/OperadoresLógicos.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex003.py" beforeDir="false" afterPath="$PROJECT_DIR$/VariaveisBasicas.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex004.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex005.py" beforeDir="false" afterPath="$PROJECT_DIR$/Print.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex007.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exx006.py" beforeDir="false" afterPath="$PROJECT_DIR$/SomaCaracteres.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed001.py" beforeDir="false" afterPath="$PROJECT_DIR$/ListaBasico.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed002.py" beforeDir="false" afterPath="$PROJECT_DIR$/OrdenaLista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed003.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dicionario.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed004.py" beforeDir="false" afterPath="$PROJECT_DIR$/CriandoArquivo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed005.py" beforeDir="false" afterPath="$PROJECT_DIR$/CriandoArquivo2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed006.py" beforeDir="false" afterPath="$PROJECT_DIR$/Funções.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed007.py" beforeDir="false" afterPath="$PROJECT_DIR$/ComandoRandom.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed008.py" beforeDir="false" afterPath="$PROJECT_DIR$/Excessões.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Intermed009.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista001.py" beforeDir="false" afterPath="$PROJECT_DIR$/IFeELSE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lista002.py" beforeDir="false" afterPath="$PROJECT_DIR$/NotaFinal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaEx001.py" beforeDir="false" afterPath="$PROJECT_DIR$/InserindoNaLista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaEx002.py" beforeDir="false" afterPath="$PROJECT_DIR$/CriandoArquivo4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaEx004.py" beforeDir="false" afterPath="$PROJECT_DIR$/CriandoArquivo3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ListaEx005.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PyeMy001.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/media.py" beforeDir="false" afterPath="$PROJECT_DIR$/FunçõesMedia.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1S1DFRRWz97osrhoEuVR03RbHcW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -26,6 +74,57 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\geovannym\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="iiu" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python Projects" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\geovannym\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\geovannym\Documents\GitHub\Python\AulaPython\Where.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.iiu" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -37,10 +136,25 @@
       <option name="presentableId" value="Default" />
       <updated>1570722103778</updated>
       <workItem from="1570722121083" duration="1957000" />
+      <workItem from="1570796901466" duration="3724000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AulaPython$iiu.coverage" NAME="iiu Coverage Results" MODIFIED="1570800459156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
   </component>
 </project>

@@ -1,4 +1,4 @@
-import media as m
+import FunçõesMedia as m
 import aleatorio as a
 
 lista = a.geraListaInteiro(10)
